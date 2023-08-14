@@ -3,18 +3,19 @@ Download link: [Brave](https://github.com/brave/brave-browser) <br />
 Download link(I do not recommend): [brave_installer-x64.exe](https://brave-browser-downloads.s3.brave.com/latest/brave_installer-x64.exe) <br />
 Documentation link:  N/A
 
-### Install command
+### Silent install commands
 ```powershell
-# Make sure that executable name is correct
 cmd /c BraveBrowserSetup.exe /silent /install
 ```
 ```powershell
-# Make sure that executable name is correct
 cmd /c BraveBrowserStandaloneSetup.exe /silent /install
 ```
 ```powershell
-# Make sure that executable name is correct
 cmd /c brave_installer-x64.exe /install /silent /system-level
+```
+### WiX commands
+```powershell
+wix build Brave.wxs
 ```
 ### My enviroment setup
 WiX Toolset 4 CLI <br />
