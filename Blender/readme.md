@@ -1,6 +1,6 @@
 ### Documentation and download
 Download link: [Blender](https://www.blender.org/) <br />
-Documentation link: N/A <br />
+Documentation link: [Documentation](https://docs.blender.org/manual/en/latest/getting_started/installing/windows.html#install-from-windows-installer-file)
 
 ### Install command
 ```powershell
