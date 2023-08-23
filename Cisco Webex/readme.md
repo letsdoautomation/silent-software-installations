@@ -4,8 +4,12 @@ Documentation link: [Documentation](https://help.webex.com/en-us/article/nw5p67g
 
 ### Install command
 ```powershell
-# DEFAULT_THEME="Dark"
-# ACCEPT_EULA=TRUE
+# DEFAULT_THEME="Dark|Light"
+# AUTOSTART_WITH_WINDOWS=TRUE|FALSE
+# DELETEUSERDATA=1|0
 
-cmd /c msiexec /i C:\Users\admin\Desktop\Webex.msi /qn ALLUSERS=1
+cmd /c msiexec /i C:\Users\admin\Desktop\Webex.msi /qn ALLUSERS=1 ACCEPT_EULA=TRUE
 ```
+
+Orca <br />
+[Windows tools: Download and install Orca MSI file editor](https://youtu.be/dFKwxNZ8PXY) <br />
