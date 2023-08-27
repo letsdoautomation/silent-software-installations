@@ -5,7 +5,7 @@ Documentation link: [Documentation](https://docs.blender.org/manual/en/latest/ge
 ### Install command
 ```powershell
 # Make sure that executable name is correct
-cmd /c blender-3.6.2-windows-x64.msi /quiet /qn /norestart ALLUSERS=1
+cmd /c blender-3.6.2-windows-x64.msi /quiet /norestart ALLUSERS=1
 ```
 
 # Related videos <br />
