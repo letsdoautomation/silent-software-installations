@@ -8,7 +8,7 @@ Documentation link: [Documentation](https://help.webex.com/en-us/article/nw5p67g
 # AUTOSTART_WITH_WINDOWS=TRUE|FALSE
 # DELETEUSERDATA=1|0
 
-cmd /c Webex.msi /quiet /norestart ALLUSERS=1 ACCEPT_EULA=TRUE
+cmd /c Webex_en.msi /quiet /norestart ALLUSERS=1 ACCEPT_EULA=TRUE
 ```
 
 # Related videos <br />
