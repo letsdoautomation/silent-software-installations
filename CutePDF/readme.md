@@ -1,6 +1,6 @@
 # Documentation and download
 Download link: [CutePDF](https://www.cutepdf.com/products/CutePDF/writer.asp) <br />
-Documentation link: N/A
+Documentation link: N/A <br />
 Alternative documentation: [Inno Setup](https://jrsoftware.org/ishelp/index.php?topic=setupcmdline)
 
 ### Install command
