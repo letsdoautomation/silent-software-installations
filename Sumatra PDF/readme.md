@@ -1,4 +1,4 @@
-### Documentation and download
+# Documentation and download
 Download link: [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) <br />
 Documentation link: [Documentation](https://www.sumatrapdfreader.org/docs/Installer-cmd-line-arguments)
 
@@ -7,3 +7,7 @@ Documentation link: [Documentation](https://www.sumatrapdfreader.org/docs/Instal
 # Make sure that executable name is correct
 cmd /c SumatraPDF-3.4.6-64-install.exe -s -all-users
 ```
+
+# Related videos <br />
+###  PSEXEC
+[Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />
