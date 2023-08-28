@@ -6,9 +6,9 @@ Documentation link: N/A
 ```powershell
 # Make sure that executable name is correct
 
-cmd /c "Dropbox 180.4.4912 Offline Installer.x86.exe" /S
+cmd /c "Dropbox 181.4.5678 Offline Installer.x86.exe" /S
 
-cmd /c "Dropbox 180.4.4912 Offline Installer.x86.exe" /NOLAUNCH
+cmd /c "Dropbox 181.4.5678 Offline Installer.x86.exe" /NOLAUNCH
 ```
 
 # Related videos <br />
