@@ -5,7 +5,7 @@ Documentation link: [Documentation](https://www.irfanview.com/faq.htm#PAGE12) <b
 ### Install command
 ```powershell
 # Make sure that executable name is correct
-cmd /c iview462_x64_setup.exe /silent /desktop=1
+cmd /c iview462_x64_setup.exe /silent /allusers=1 /desktop=1
 ```
 
 # Related videos <br />
