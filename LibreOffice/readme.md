@@ -5,7 +5,7 @@ Documentation link: [Documentation](https://wiki.documentfoundation.org/Deployme
 ### Install command
 ```powershell
 # Make sure that executable name is correct
-cmd /c LibreOffice_7.5.5_Win_x86-64.msi /quiet /qn /norestart
+cmd /c LibreOffice_7.5.5_Win_x86-64.msi /quiet /norestart ALLUSERS=1
 ```
 
 # Related videos <br />
