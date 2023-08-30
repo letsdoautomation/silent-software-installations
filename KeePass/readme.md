@@ -5,7 +5,7 @@ Documentation link: [Documentation](https://keepass.info/help/v2/setup.html) <br
 ### Install command
 ```powershell
 # Make sure that executable name is correct
-cmd /c KeePass-2.54.msi /quiet /qn /norestart
+cmd /c KeePass-2.54.msi /quiet /norestart ALLUSERS=1
 ```
 
 # Related videos <br />
