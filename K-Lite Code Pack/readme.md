@@ -6,7 +6,7 @@ Documentation link: [Documentation](https://codecguide.com/faq_installation.htm)
 ### Install command
 ```powershell
 # Make sure that executable name is correct
-cmd /c K-Lite_Codec_Pack_1770_Standard.exe /VERYSILENT /NORESTART
+cmd /c K-Lite_Codec_Pack_1775_Standard.exe /VERYSILENT /NORESTART
 ```
 
 # Related videos <br />
