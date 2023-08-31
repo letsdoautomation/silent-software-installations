@@ -5,7 +5,7 @@ Documentation link: [Documentation](https://docs.nextcloud.com/desktop/3.4/insta
 ### Install command
 ```powershell
 # Make sure that executable name is correct
-cmd /c Nextcloud-3.9.2-x64.msi /quiet /norestart ALLUSERS=1
+cmd /c Nextcloud-3.9.3-x64.msi /quiet /norestart ALLUSERS=1
 ```
 
 # Related videos <br />
