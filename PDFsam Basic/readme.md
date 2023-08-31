@@ -5,7 +5,7 @@ Documentation link: [Documentation](https://pdfsam.org/silent-install/)
 ### Install command
 ```powershell
 # Make sure that executable name is correct
-cmd /c "pdfsam-5.1.3.msi" /quiet /qn /norestart
+cmd /c "pdfsam-5.1.3.msi" /quiet /norestart ALLUSERS=1
 ```
 
 # Related videos <br />
