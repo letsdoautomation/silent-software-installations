@@ -7,3 +7,7 @@ Documentation link: N/A
 # Make sure that executable name is correct
 cmd /c FortiClientVPN.msi /quiet /qn /norestart
 ```
+
+# Related videos <br />
+###  PSEXEC
+[Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />
