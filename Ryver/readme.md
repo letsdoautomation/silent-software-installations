@@ -1,10 +1,11 @@
 # Documentation and download
-Download link: [Telegram](https://desktop.telegram.org/) <br />
+Download link: [Ryver](https://ryver.com/downloads/) <br />
 
 ### Silent install commands
 ```powershell
-cmd /c tsetup-x64.4.9.6.exe /VERYSILENT /NORESTART
+cmd /c RyverSetup-1.3.2-x64.exe -s
 ```
+
 # Related videos <br />
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />
