@@ -6,9 +6,13 @@ Download link: [Ryver](https://ryver.com/downloads/) <br />
 cmd /c RyverSetup-1.3.2-x64.exe -s
 ```
 
+```powershell
+ni "HKLM:\SOFTWARE\Microsoft\Active Setup\Installed Components\InstallRyver" | New-ItemProperty -Name "StubPath" -Value 'REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce" /v InstallRyver /t REG_SZ /d "C:\RyverSetup-1.3.2-x64.exe -s"'
+```
+
 # Related videos <br />
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />
-### WiX Toolset 4 CLI <br />
-[Windows Tools: Download and install .NET 7 SDK and WiXtoolset 4 CLI tool](https://youtu.be/ukrIlmadTjw) <br />
-[Group Policy: Packaging EXE into MSI for Group Policy software deployment using WiX toolset CLI](https://youtu.be/pZ42XS2Ucsg) <br />
+### Windows registry <br />
+[Windows Registry: Run and RunOnce](https://youtu.be/zgFzCq5uEPw) <br />
+[Windows Registry: Active Setup](https://youtu.be/HrVJ7wdvfmo) <br />
