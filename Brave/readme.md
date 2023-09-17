@@ -1,7 +1,6 @@
-# Documentation and download
-Download link: [Brave](https://github.com/brave/brave-browser) <br />
-Download link(I do not recommend): [brave_installer-x64.exe](https://brave-browser-downloads.s3.brave.com/latest/brave_installer-x64.exe) <br />
-Documentation link:  N/A
+<b>Download links:</b> <br /> 
+* [Brave](https://github.com/brave/brave-browser) <br />
+* [brave_installer-x64.exe (I do not recommend)](https://brave-browser-downloads.s3.brave.com/latest/brave_installer-x64.exe) <br />
 
 ### Silent install commands
 ```powershell
