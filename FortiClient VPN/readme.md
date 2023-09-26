@@ -5,7 +5,7 @@ Documentation link: N/A
 ### Install command
 ```powershell
 # Make sure that executable name is correct
-cmd /c FortiClientVPN.msi /quiet /qn /norestart
+cmd /c FortiClientVPN.msi /qn /norestart
 ```
 
 # Related videos
