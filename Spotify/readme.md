@@ -8,7 +8,7 @@
 ```powershell
 cmd /c SpotifySetup.exe /silent
 ```
-
+### Registry commands
 ```powershell
 ni "HKLM:\SOFTWARE\Microsoft\Active Setup\Installed Components\InstallSpotify" | New-ItemProperty -Name "StubPath" -Value 'REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce" /v InstallSpotify /t REG_SZ /d "C:\SpotifyFullSetup.exe /silent"'
 ```

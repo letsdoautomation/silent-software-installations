@@ -12,7 +12,7 @@ cmd /c BraveBrowserStandaloneSetup.exe /silent /install
 ```powershell
 cmd /c brave_installer-x64.exe /install /silent /system-level
 ```
-
+### Registry commands
 ```powershell
 ni "HKLM:\SOFTWARE\Microsoft\Active Setup\Installed Components\InstallBrave" | New-ItemProperty -Name "StubPath" -Value 'REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce" /v InstallBrave /t REG_SZ /d "C:\BraveBrowserStandaloneSilentSetup.exe"'
 ```

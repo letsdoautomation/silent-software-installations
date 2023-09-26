@@ -5,7 +5,7 @@ Download link: [Telegram](https://desktop.telegram.org/) <br />
 ```powershell
 cmd /c tsetup-x64.4.9.8.exe /VERYSILENT /NORESTART
 ```
-
+### Registry commands
 ```powershell
 ni "HKLM:\SOFTWARE\Microsoft\Active Setup\Installed Components\InstallTelegram" | New-ItemProperty -Name "StubPath" -Value 'REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce" /v InstallTelegram /t REG_SZ /d "C:\tsetup-x64.4.9.8.exe /VERYSILENT /NORESTART"'
 ```
