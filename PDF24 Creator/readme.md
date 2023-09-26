@@ -5,7 +5,7 @@ Documentation link: [Documentation](https://help.pdf24.org/en/forums/topic/pdf24
 ### Install command
 ```powershell
 # Make sure that executable name is correct
-cmd /c pdf24-creator-11.13.2-x64.msi /quiet /norestart ALLUSERS=1
+cmd /c pdf24-creator-11.13.2-x64.msi /qn /norestart ALLUSERS=1
 ```
 
 # Related videos
