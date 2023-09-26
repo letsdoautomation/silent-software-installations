@@ -7,3 +7,7 @@ Documentation link: [Documentation](https://support.mozilla.org/en-US/products/f
 # Make sure that executable name is correct
 cmd /c "Firefox Installer.exe" /S
 ```
+
+# Related videos
+###  PSEXEC
+[Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

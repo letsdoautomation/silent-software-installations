@@ -8,6 +8,6 @@ Documentation link: [Documentation](https://help.pdf24.org/en/forums/topic/pdf24
 cmd /c pdf24-creator-11.13.2-x64.msi /quiet /norestart ALLUSERS=1
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

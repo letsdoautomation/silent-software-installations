@@ -15,6 +15,6 @@ cmd /c CuteWriter.exe /?
 cmd /c CuteWriter.exe /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

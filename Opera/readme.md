@@ -12,6 +12,6 @@ cmd /c OperaSetup.exe --?
 cmd /c OperaSetup.exe --allusers=1 --silent=1 --launchbrowser=0
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

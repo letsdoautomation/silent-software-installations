@@ -8,6 +8,6 @@ Documentation link: [Documentation](https://docs.python.org/3/using/windows.html
 cmd /c python-3.11.4-amd64.exe /quiet InstallAllUsers=1 PrependPath=1
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

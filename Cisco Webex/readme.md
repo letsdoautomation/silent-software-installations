@@ -7,6 +7,6 @@ Documentation link: [Documentation](https://help.webex.com/en-us/article/nw5p67g
 cmd /c Webex_en.msi /quiet /norestart ALLUSERS=1
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

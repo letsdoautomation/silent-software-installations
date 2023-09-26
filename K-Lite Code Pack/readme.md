@@ -9,6 +9,6 @@ Documentation link: [Documentation](https://codecguide.com/faq_installation.htm)
 cmd /c K-Lite_Codec_Pack_1775_Standard.exe /VERYSILENT /NORESTART
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

@@ -8,6 +8,6 @@ Documentation link: [Documentation](https://www.sumatrapdfreader.org/docs/Instal
 cmd /c SumatraPDF-3.4.6-64-install.exe -s -all-users
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

@@ -8,6 +8,6 @@ Documentation link: [Documentation](https://www.irfanview.com/faq.htm#PAGE12) <b
 cmd /c iview462_x64_setup.exe /silent /allusers=1 /desktop=1
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

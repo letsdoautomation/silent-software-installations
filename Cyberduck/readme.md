@@ -12,6 +12,6 @@ cmd /c Cyberduck-Installer-8.6.3.40040.exe /S
 cmd /c Cyberduck-Installer-8.6.3.40040.exe /S InstallBonjour=0
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

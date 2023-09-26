@@ -8,6 +8,6 @@ Documentation link: N/A
 cmd /c inkscape-1.3_2023-07-21_0e150ed6c4-x64_31XBEKV.msi /quiet /norestart ALLUSERS=1
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

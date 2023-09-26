@@ -8,6 +8,6 @@ Documentation link: [Documentation](https://wiki.filezilla-project.org/Silent_Se
 cmd /c FileZilla_3.65.0_win64_sponsored2-setup.exe /S
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

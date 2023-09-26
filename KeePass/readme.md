@@ -8,6 +8,6 @@ Documentation link: [Documentation](https://keepass.info/help/v2/setup.html) <br
 cmd /c KeePass-2.54.msi /quiet /norestart ALLUSERS=1
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

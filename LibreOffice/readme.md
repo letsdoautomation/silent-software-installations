@@ -8,7 +8,7 @@ Documentation link: [Documentation](https://wiki.documentfoundation.org/Deployme
 cmd /c LibreOffice_7.6.0_Win_x86-64.msi /quiet /norestart ALLUSERS=1
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />
 

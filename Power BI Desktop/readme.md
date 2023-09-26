@@ -8,6 +8,6 @@ Documentation link: [Documentation](https://learn.microsoft.com/en-us/power-bi/f
 cmd /c PBIDesktopSetup_x64.exe -silent -norestart ACCEPT_EULA=1
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

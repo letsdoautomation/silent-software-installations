@@ -8,6 +8,6 @@ Documentation link: [Documentation](https://pdfsam.org/silent-install/)
 cmd /c "pdfsam-5.1.3.msi" /quiet /norestart ALLUSERS=1
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

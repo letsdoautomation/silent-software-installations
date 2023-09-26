@@ -8,6 +8,6 @@ Documentation link: N/A <br />
 cmd /c winrar-x64-623.exe /S
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

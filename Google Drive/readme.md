@@ -8,6 +8,6 @@ Documentation link: N/A <br />
 cmd /c "GoogleDriveSetup.exe" --silent --skip_launch_new --gsuite_shortcuts=false
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

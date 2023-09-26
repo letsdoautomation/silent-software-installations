@@ -8,6 +8,6 @@ Documentation link: [Documentation](https://docs.blender.org/manual/en/latest/ge
 cmd /c blender-3.6.2-windows-x64.msi /quiet /norestart ALLUSERS=1
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />

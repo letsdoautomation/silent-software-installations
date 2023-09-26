@@ -9,6 +9,6 @@ Alternative documentation: [Inno Setup](https://jrsoftware.org/ishelp/index.php?
 cmd /c "gimp-2.10.34-setup-2.exe" /VERYSILENT /ALLUSERS /NORESTART /SUPPRESSMSGBOXES /SP-
 ```
 
-# Related videos <br />
+# Related videos
 ###  PSEXEC
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />
