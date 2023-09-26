@@ -1,3 +1,4 @@
+# Downloads and documentation
 <b>Download links:</b> <br /> 
 * [Brave](https://github.com/brave/brave-browser) <br />
 * [brave_installer-x64.exe (I do not recommend)](https://brave-browser-downloads.s3.brave.com/latest/brave_installer-x64.exe) <br />

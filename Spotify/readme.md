@@ -1,4 +1,4 @@
-### Downloads and documentation
+# Downloads and documentation
 <b>Download links:</b> <br /> 
 * [Spotify](https://www.spotify.com/de-en/download/windows/) <br />
 * [Spotify Offline Installer](https://download.scdn.co/SpotifyFullSetup.exe)
