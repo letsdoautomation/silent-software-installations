@@ -5,7 +5,7 @@ Documentation link: N/A
 ### Install command
 ```powershell
 # Make sure that executable name is correct
-cmd /c slack-standalone-4.34.121.0.msi /quiet /qn /norestart
+cmd /c slack-standalone-4.34.121.0.msi /qn /norestart ALLUSERS=1
 ```
 
 # Related videos
