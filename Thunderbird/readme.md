@@ -5,7 +5,7 @@ Documentation link: N/A
 ### Install command
 ```powershell
 # Make sure that executable name is correct
-cmd /c "Thunderbird Setup 115.3.1.msi" /quiet /norestart ALLUSERS=1
+cmd /c "Thunderbird Setup 115.3.1.msi" /qn /norestart ALLUSERS=1
 ```
 
 # Related videos
