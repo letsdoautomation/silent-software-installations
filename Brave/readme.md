@@ -5,12 +5,6 @@
 
 ### Silent install commands
 ```powershell
-cmd /c BraveBrowserSetup.exe /silent /install
-```
-```powershell
-cmd /c BraveBrowserStandaloneSetup.exe /silent /install
-```
-```powershell
 cmd /c brave_installer-x64.exe /install /silent /system-level
 ```
 ### Registry commands
