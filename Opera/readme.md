@@ -9,7 +9,7 @@ cmd /c OperaSetup.exe --?
 
 ### Silent install commands
 ```powershell
-cmd /c OperaSetup.exe --allusers=1 --silent=1 --launchbrowser=0
+cmd /c Opera_103.0.4928.16_Setup_x64.exe --allusers=1 --silent=1 --launchbrowser=0
 ```
 
 # Related videos

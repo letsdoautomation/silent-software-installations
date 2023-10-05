@@ -5,7 +5,7 @@ Documentation link: [Documentation](https://www.getpaint.net/doc/latest/Unattend
 ### Install command
 ```powershell
 # Make sure that executable name is correct
-cmd /c paint.net.5.0.9.winmsi.x64.msi /quiet /norestart ALLUSERS=1
+cmd /c paint.net.5.0.10.winmsi.x64.msi /qn /norestart ALLUSERS=1
 ```
 
 # Related videos
