@@ -1,8 +1,13 @@
-# Downloads and documentation
+# Silent software installation
 <b>Download links:</b> <br /> 
 * [Telegram](https://desktop.telegram.org/) <br />
 
-### Software installation flow using Active Setup and RunOnce:
+<b>Steps from preparing computer for software installation:</b>
+* Software installation file placed in C:\
+* Active Setup registry key created
+
+<b>Software installation flow using Active Setup and RunOnce:</b>
+
 ```mermaid
 flowchart TD
     a["User signs-in to the computer"] --> b["Active Setup creates RunOnce registry entry"]
@@ -10,14 +15,18 @@ flowchart TD
     c --> d["RunOnce will start software installation"]
 ```
 
-### Registry commands
+<b>Registry commands</b>
+
 ```powershell
 ni "HKLM:\SOFTWARE\Microsoft\Active Setup\Installed Components\InstallTelegram" | New-ItemProperty -Name "StubPath" -Value 'REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce" /v InstallTelegram /t REG_SZ /d "C:\tsetup-x64.4.10.2.exe /VERYSILENT /NORESTART"'
 ```
 
 # Related videos
-### Windows registry
+<b>Windows registry</b>
+
 [Windows Registry: Run and RunOnce](https://youtu.be/zgFzCq5uEPw) <br />
 [Windows Registry: Active Setup](https://youtu.be/HrVJ7wdvfmo) <br />
-### Creating MSI file
+
+<b>Creating MSI file</b>
+
 [WiX toolset 4 CLI:Create Telegram MSI installation file](https://youtu.be/wDiuEd88Ovc)

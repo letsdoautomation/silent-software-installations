@@ -1,4 +1,4 @@
-# Downloads and documentation
+# Silent software installation
 <b>Download links:</b> <br /> 
 * [Brave](https://github.com/brave/brave-browser) <br />
 
@@ -7,6 +7,7 @@
 * Active Setup registry key created
 
 <b>Software installation flow using Active Setup and RunOnce:</b>
+
 ```mermaid
 flowchart TD
     a["User signs-in to the computer"] --> b["Active Setup creates RunOnce registry entry"]
@@ -15,13 +16,17 @@ flowchart TD
 ```
 
 <b>Registry commands</b>
+
 ```powershell
 ni "HKLM:\SOFTWARE\Microsoft\Active Setup\Installed Components\InstallBrave" | New-ItemProperty -Name "StubPath" -Value 'REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce" /v InstallBrave /t REG_SZ /d "C:\BraveBrowserStandaloneSilentSetup.exe"'
 ```
 
 # Related videos
-<b>Windows registry</b> <br />
+<b>Windows registry</b>
+
 [Windows Registry: Run and RunOnce](https://youtu.be/zgFzCq5uEPw) <br />
 [Windows Registry: Active Setup](https://youtu.be/HrVJ7wdvfmo) <br />
-<b>Creating MSI file</b> <br />
+
+<b>Creating MSI file</b>
+
 [WiX toolset 4 CLI: Create Brave Browser MSI installation file](https://youtu.be/zZyS3LLuy5Q)
