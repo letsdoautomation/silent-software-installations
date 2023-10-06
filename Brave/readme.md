@@ -20,8 +20,8 @@ ni "HKLM:\SOFTWARE\Microsoft\Active Setup\Installed Components\InstallBrave" | N
 ```
 
 # Related videos
-<b>Windows registry</b>
+<b>Windows registry</b> <br />
 [Windows Registry: Run and RunOnce](https://youtu.be/zgFzCq5uEPw) <br />
 [Windows Registry: Active Setup](https://youtu.be/HrVJ7wdvfmo) <br />
-<b>Creating MSI file</b>
+<b>Creating MSI file</b> <br />
 [WiX toolset 4 CLI: Create Brave Browser MSI installation file](https://youtu.be/zZyS3LLuy5Q)
