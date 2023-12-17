@@ -5,5 +5,5 @@ Documentation link: [Documentation](https://support.zoom.us/hc/en-us/articles/20
 ### Install command
 ```powershell
 # Make sure that executable name is correct
-cmd /c ZoomInstallerFull.msi /quiet /qn /norestart
+cmd /c ZoomInstallerFull.msi /qn /norestart ALLUSERS=1
 ```
