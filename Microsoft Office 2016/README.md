@@ -1,4 +1,4 @@
-# Silent software installations: Microsoft Office 2016
+# Silent software installations: Microsoft Office 2016 VL
 
 <b>Documentation</b>
 
