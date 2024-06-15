@@ -22,7 +22,7 @@
 
 ### Online installation
 
-<b>Perform installation</b>
+<b>Perform online installation:</b>
 
 ```powershell
 setup.exe /configure configuration-online.xml
@@ -30,9 +30,13 @@ setup.exe /configure configuration-online.xml
 
 ### Offline installation
 
+<b>Download installation files:</b>
+
 ```powershell
 setup.exe /download configuration-offline.xml
 ```
+
+<b>Perform offline installation:</b>
 
 ```powershell
 setup.exe /configure configuration-offline.xml
