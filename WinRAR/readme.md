@@ -14,7 +14,7 @@ ni "HKLM:\SOFTWARE\Microsoft\Active Setup\Installed Components\runWinRAR" | New-
 
 <b>Both commands in 1</b>
 ```batch
-cmd /c winrar-x64-701.exe /S && powershell.exe New-ItemProperty -Path (ni 'HKLM:\SOFTWARE\Microsoft\Active Setup\Installed Components\runWinRAR').PSPath -Name StubPath -Value ('REG ADD ""HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce"" /v runWinRAR /t REG_SZ /d "%ProgramFiles%\WinRAR\WinRAR.exe"')
+cmd /c winrar-x64-701.exe /S && powershell.exe New-ItemProperty -Path (ni 'HKLM:\SOFTWARE\Microsoft\Active Setup\Installed Components\runWinRAR').PSPath -Name StubPath -Value ('REG ADD \"HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\" /v runWinRAR /t REG_SZ /d \"%ProgramFiles%\WinRAR\WinRAR.exe\"')
 ```
 
 # Related videos
